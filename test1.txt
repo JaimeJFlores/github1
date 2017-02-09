@@ -1,0 +1,28 @@
+Installation
+	1. Visual Studio Community 2015 mit akuellen Updates
+	2. LinqPad v5.0: http://www.linqpad.net/
+
+Visual Studio Community 2015 mit akuellen Updates
+http://www.visualstudio.com/en-Us/downloads/
+    falls 'deutsch' gewünscht, Sprackpacket nachinstallieren.
+
+    !!! Keine Nachinstallation von SQL-Server
+    !!! Keine Nachinstallation von IIS-Server
+
+VS Erweiterung:
+  Productivity Power Tools
+  Web Essentials (für WebEntwickler)
+
+Webplattform-Installer
+  https://www.microsoft.com/web/downloads/platform.aspx
+
+
+Bitte folgende Konten anlegen
+  Microsoft-Konto
+  Bitbucket.org
+
+
+
+http://sessionboard.azurewebsites.net/
+
+-> s. auch git-scm.com für GIT (MS Source Code Verwalter!)
